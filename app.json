@@ -1,0 +1,19 @@
+{
+  "appKey": "agRY004BdsXr1uYpk3ocs57IyGEDEkAF",
+  "appSecret": "ubYmoTE7kRvzRRTUViMbA64L9xC5laMV",
+  "projectId": "62688455e02b7571e14e218b609c445c",
+  "id": 275,
+  "name": "wqr",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/test_env.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
